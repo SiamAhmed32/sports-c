@@ -1,8 +1,16 @@
 {
-  "/sportsbook-comparison/page": "app/sportsbook-comparison/page.js",
-  "/dashboard/page": "app/dashboard/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/insights/page": "app/insights/page.js",
   "/game-portfolio/page": "app/game-portfolio/page.js",
+  "/login/page": "app/login/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/admin/page": "app/admin/page.js",
+  "/line-movement/page": "app/line-movement/page.js",
   "/pricing/page": "app/pricing/page.js",
+  "/player/[id]/page": "app/player/[id]/page.js",
   "/profile/page": "app/profile/page.js",
-  "/admin/page": "app/admin/page.js"
+  "/register/page": "app/register/page.js",
+  "/page": "app/page.js",
+  "/player-analytics/page": "app/player-analytics/page.js",
+  "/sportsbook-comparison/page": "app/sportsbook-comparison/page.js"
 }
