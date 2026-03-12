@@ -233,7 +233,7 @@ export function SportsbookComparisonPage() {
                         {o1
                           ? selectedTab === "spread"
                             ? `${(o1.point ?? 0) > 0 ? "+" : ""}${o1.point ?? ""} (${formatOdds(o1.price)})`
-                            : selectedTab === "totals"
+                            : selectedTab === "total"
                               ? `U${o1.point ?? ""} (${formatOdds(o1.price)})`
                               : formatOdds(o1.price)
                           : "—"}
